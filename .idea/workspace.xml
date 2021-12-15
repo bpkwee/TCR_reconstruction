@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81af6a85-d46b-4acb-a8be-6911911e297e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/reconstruct_tcrs_example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/reconstruct_tcrs_example.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vdj_reconstruction_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/vdj_reconstruction_utils.py" afterDir="false" />
+    <list default="true" id="81af6a85-d46b-4acb-a8be-6911911e297e" name="Changes" comment="update structure">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +40,16 @@
       <option name="presentableId" value="Default" />
       <updated>1639561943503</updated>
       <workItem from="1639561946310" duration="149000" />
-      <workItem from="1639562133372" duration="321000" />
+      <workItem from="1639562133372" duration="558000" />
     </task>
+    <task id="LOCAL-00001" summary="update structure">
+      <created>1639562617010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639562617010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,5 +65,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="update structure" />
   </component>
 </project>
