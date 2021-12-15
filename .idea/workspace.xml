@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f343f086-f182-465f-a05f-529bee608911" name="Changes" comment="add example.csv" />
+    <list default="true" id="f343f086-f182-465f-a05f-529bee608911" name="Changes" comment="add init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reconstruct_tcrs_example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/reconstruct_tcrs_example.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/saved_data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/logger" />
+      <recent name="$PROJECT_DIR$/saved_data" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639562681161</updated>
-      <workItem from="1639562685011" duration="2220000" />
+      <workItem from="1639562685011" duration="3288000" />
     </task>
     <task id="LOCAL-00001" summary="updat directory structure">
       <created>1639563065948</created>
@@ -47,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639564900958</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="small changes">
+      <created>1639565166917</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639565166917</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add init">
+      <created>1639565217418</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639565217418</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,6 +91,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updat directory structure" />
     <MESSAGE value="add example.csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="add example.csv" />
+    <MESSAGE value="small changes" />
+    <MESSAGE value="add init" />
+    <option name="LAST_COMMIT_MESSAGE" value="add init" />
   </component>
 </project>
