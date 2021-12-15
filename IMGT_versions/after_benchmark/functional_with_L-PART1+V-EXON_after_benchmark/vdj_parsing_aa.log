@@ -1,0 +1,23 @@
+12/05/2021 06:52:08 - vdj_parsing_aa.log - INFO -  Making _aa translation dict: ##############################################
+
+
+12/05/2021 06:52:08 - vdj_parsing_aa.log - INFO - 	 making translation dict for: TRAV
+12/05/2021 06:52:08 - vdj_parsing_aa.log - INFO - 	 making translation dict for: TRAJ
+12/05/2021 06:52:08 - vdj_parsing_aa.log - INFO - 	 making translation dict for: TRBV
+12/05/2021 06:52:08 - vdj_parsing_aa.log - INFO - 	 making translation dict for: TRBD
+12/05/2021 06:52:08 - vdj_parsing_aa.log - INFO - 	 making translation dict for: TRBJ
+12/05/2021 06:52:08 - vdj_parsing_aa.log - INFO - Imputing missing keys for: TRAV_aa #########################################
+
+
+12/05/2021 06:52:08 - vdj_parsing_aa.log - INFO - Imputing missing keys for: TRAJ_aa #########################################
+
+
+12/05/2021 06:52:08 - vdj_parsing_aa.log - INFO - Imputing missing keys for: TRBV_aa #########################################
+
+
+12/05/2021 06:52:08 - vdj_parsing_aa.log - INFO - Imputing missing keys for: TRBD_aa #########################################
+
+
+12/05/2021 06:52:08 - vdj_parsing_aa.log - INFO - Imputing missing keys for: TRBJ_aa #########################################
+
+

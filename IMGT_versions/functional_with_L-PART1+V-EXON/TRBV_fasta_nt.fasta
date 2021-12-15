@@ -1,0 +1,470 @@
+>L36092|TRBV10-1*01|Homo sapiens|F|L-PART1+V-EXON|214638..214686+214793..215087|344 nt|1| | | | |344+0=344| | |
+atgggcacgaggctcttcttctatgtggccctttgtctgctgtgggcaggacacagggat
+gctgaaatcacccagagcccaagacacaagatcacagagacaggaaggcaggtgaccttg
+gcgtgtcaccagacttggaaccacaacaatatgttctggtatcgacaagacctgggacat
+gggctgaggctgatccattactcatatggtgttcaagacactaacaaaggagaagtctca
+gatggctacagtgtctctagatcaaacacagaggacctccccctcactctggagtctgct
+gcctcctcccagacatctgtatatttctgcgccagcagtgagtc
+>AF009660|TRBV10-1*02|Homo sapiens|F|L-PART1+V-EXON|54750..54798+54905..55199|344 nt|1| | | | |344+0=344| | |
+atgggcacgaggctcttcttctatgtggccctttgtctgctgtgggcaggacacagggat
+gctgaaatcacccagagcccaagacacaagatcacagagacaggaaggcaggtgaccttg
+gcgtgtcaccagacttggaaccacaacaatatgttctggtatcgacaagacctgggacat
+gggctgaggctgatccattactcatatggtgttcacgacactaacaaaggagaagtctca
+gatggctacagtgtctctagatcaaacacagaggacctccccctcactctggagtctgct
+gcctcctcccagacatctgtatatttctgcgccagcagtgagtc
+>L36092|TRBV10-2*01|Homo sapiens|F|L-PART1+V-EXON|239704..239752+239859..240153|344 nt|1| | | | |344+0=344| | |
+atgggcaccaggctcttcttctatgtggccctttgtctgctgtgggcaggacacagggat
+gctggaatcacccagagcccaagatacaagatcacagagacaggaaggcaggtgaccttg
+atgtgtcaccagacttggagccacagctatatgttctggtatcgacaagacctgggacat
+gggctgaggctgatctattactcagcagctgctgatattacagataaaggagaagtcccc
+gatggctatgttgtctccagatccaagacagagaatttccccctcactctggagtcagct
+acccgctcccagacatctgtgtatttctgcgccagcagtgagtc
+>U03115|TRBV10-3*01|Homo sapiens|F|L-PART1+V-EXON|14717..14765+14872..15166|344 nt|1| | | | |344+0=344| | |
+atgggcacaaggttgttcttctatgtggccctttgtctcctgtggacaggacacatggat
+gctggaatcacccagagcccaagacacaaggtcacagagacaggaacaccagtgactctg
+agatgtcaccagactgagaaccaccgctatatgtactggtatcgacaagacccggggcat
+gggctgaggctgatccattactcatatggtgttaaagatactgacaaaggagaagtctca
+gatggctatagtgtctctagatcaaagacagaggatttcctcctcactctggagtccgct
+accagctcccagacatctgtgtacttctgtgccatcagtgagtc
+>M33233|TRBV11-1*01|Homo sapiens|F|L-PART1+V-EXON|589..637+739..1036|347 nt|1| | | | |347+0=347| | |
+atgagcaccaggcttctctgctggatggccctctgtctcctgggggcagaactctcagaa
+gctgaagttgcccagtcccccagatataagattacagagaaaagccaggctgtggctttt
+tggtgtgatcctatttctggccatgctaccctttactggtaccggcagatcctgggacag
+ggcccggagcttctggttcaatttcaggatgagagtgtagtagatgattcacagttgcct
+aaggatcgattttctgcagagaggctcaaaggagtagactccactctcaagatccagcct
+gcagagcttggggactcggccatgtatctctgtgccagcagcttagc
+>L36092|TRBV11-2*01|Homo sapiens|F|L-PART1+V-EXON|248664..248712+248805..249102|347 nt|1| | | | |347+0=347| | |
+atgggcaccaggctcctctgctgggcggccctctgtctcctgggagcagaactcacagaa
+gctggagttgcccagtctcccagatataagattatagagaaaaggcagagtgtggctttt
+tggtgcaatcctatatctggccatgctaccctttactggtaccagcagatcctgggacag
+ggcccaaagcttctgattcagtttcagaataacggtgtagtggatgattcacagttgcct
+aaggatcgattttctgcagagaggctcaaaggagtagactccactctcaagatccagcct
+gcaaagcttgaggactcggccgtgtatctctgtgccagcagcttaga
+>M33235|TRBV11-2*02|Homo sapiens|[F]|L-PART1+V-EXON|22..70+163..455|342 nt|1| | | | |342+0=342|partial in 3'| |
+atgggcaccaggctcctctgctgggcggccctctgtctcctgggagcagaactcacagaa
+gctggagttgcccagtctcccagatataagattatagagaaaaggcagagtgtggctttt
+tggtgcaatcctatatctggccatgctaccctttactggtaccagcagatcctgggacag
+ggcccaaagcttctgattcagtttcagaataacggtgtagtggatgattcacagttgcct
+aaggatcgattttctgcagagaggctcaaaggagtagactccactctcaagatccagcct
+gcaaagcttgagaactcggccgtgtatctctgtgccagcagt
+>IMGT000021|TRBV11-2*03|Homo sapiens|F|L-PART1+V-EXON|202611..202659+202752..203049|347 nt|1| | | | |347+0=347| | |
+atgggcaccaggctcctctgctgggcggccctctgtctcctgggagcagaactcacagaa
+gctggagttgcccagtctcccagatataagattatagagaaaaggcagagtgtggctttt
+tggtgcaatcctatatctggccatgctaccctttactggtaccagcagatcctgggacag
+ggcccaaagcttctgattcagtttcagaataacggtgtagtggatgattcacagttgcct
+aaggatcgattttctgcagagaggctcaaaggagtagactccactctcaagatccaacct
+gcaaagcttgaggactcggccgtgtatctctgtgccagcagcttaga
+>U03115|TRBV11-3*01|Homo sapiens|F|L-PART1+V-EXON|25365..25413+25505..25802|347 nt|1| | | | |347+0=347| | |
+atgggtaccaggctcctctgctgggtggccttctgtctcctggtggaagaactcatagaa
+gctggagtggttcagtctcccagatataagattatagagaaaaaacagcctgtggctttt
+tggtgcaatcctatttctggccacaataccctttactggtacctgcagaacttgggacag
+ggcccggagcttctgattcgatatgagaatgaggaagcagtagacgattcacagttgcct
+aaggatcgattttctgcagagaggctcaaaggagtagactccactctcaagatccagcct
+gcagagcttggggactcggccgtgtatctctgtgccagcagcttaga
+>X07192|TRBV12-3*01|Homo sapiens|F|L-PART1+V-EXON|269..317+418..715|347 nt|1| | | | |347+0=347| | |
+atggactcctggaccttctgctgtgtgtccctttgcatcctggtagcgaagcatacagat
+gctggagttatccagtcaccccgccatgaggtgacagagatgggacaagaagtgactctg
+agatgtaaaccaatttcaggccacaactcccttttctggtacagacagaccatgatgcgg
+ggactggagttgctcatttactttaacaacaacgttccgatagatgattcagggatgccc
+gaggatcgattctcagctaagatgcctaatgcatcattctccactctgaagatccagccc
+tcagaacccagggactcagctgtgtacttctgtgccagcagtttagc
+>K02546|TRBV12-4*01|Homo sapiens|F|L-PART1+V-EXON|1..49+150..447|347 nt|1| | | | |347+0=347| | |
+atgggctcctggaccctctgctgtgtgtccctttgcatcctggtagcaaagcacacagat
+gctggagttatccagtcaccccggcacgaggtgacagagatgggacaagaagtgactctg
+agatgtaaaccaatttcaggacacgactaccttttctggtacagacagaccatgatgcgg
+ggactggagttgctcatttactttaacaacaacgttccgatagatgattcagggatgccc
+gaggatcgattctcagctaagatgcctaatgcatcattctccactctgaagatccagccc
+tcagaacccagggactcagctgtgtacttctgtgccagcagtttagc
+>X07223|TRBV12-5*01|Homo sapiens|F|L-PART1+V-EXON|235..283+384..681|347 nt|1| | | | |347+0=347| | |
+atggccaccaggctcctctgctgtgtggttctttgtctcctgggagaagagcttatagat
+gctagagtcacccagacaccaaggcacaaggtgacagagatgggacaagaagtaacaatg
+agatgtcagccaattttaggccacaatactgttttctggtacagacagaccatgatgcaa
+ggactggagttgctggcttacttccgcaaccgggctcctctagatgattcggggatgccg
+aaggatcgattctcagcagagatgcctgatgcaactttagccactctgaagatccagccc
+tcagaacccagggactcagctgtgtatttttgtgctagtggtttggt
+>U03115|TRBV13*01|Homo sapiens|F|L-PART1+V-EXON|6305..6383+6494..6788|374 nt|1| | | | |374+0=374| | |
+atgcttagtcctgacctgcctgactctgcctggaacaccaggctcctctgccatgtcatg
+ctttgtctcctgggagcagtttcagtggctgctggagtcatccagtccccaagacatctg
+atcaaagaaaagagggaaacagccactctgaaatgctatcctatccctagacacgacact
+gtctactggtaccagcagggtccaggtcaggacccccagttcctcatttcgttttatgaa
+aagatgcagagcgataaaggaagcatccctgatcgattctcagctcaacagttcagtgac
+tatcattctgaactgaacatgagctccttggagctgggggactcagccctgtacttctgt
+gccagcagcttagg
+>X06154|TRBV14*01|Homo sapiens|F|L-PART1+V-EXON|140..188+275..572|347 nt|1| | | | |347+0=347| | |
+atggtttccaggcttctcagtttagtgtccctttgtctcctgggagcaaagcacatagaa
+gctggagttactcagttccccagccacagcgtaatagagaagggccagactgtgactctg
+agatgtgacccaatttctggacatgataatctttattggtatcgacgtgttatgggaaaa
+gaaataaaatttctgttacattttgtgaaagagtctaaacaggatgagtccggtatgccc
+aacaatcgattcttagctgaaaggactggagggacgtattctactctgaaggtgcagcct
+gcagaactggaggattctggagtttatttctgtgccagcagccaaga
+>U03115|TRBV15*01|Homo sapiens|F|L-PART1+V-EXON|63499..63547+63673..63967|344 nt|1| | | | |344+0=344| | |
+atgggtcctgggcttctccactggatggccctttgtctccttggaacaggtcatggggat
+gccatggtcatccagaacccaagataccaggttacccagtttggaaagccagtgaccctg
+agttgttctcagactttgaaccataacgtcatgtactggtaccagcagaagtcaagtcag
+gccccaaagctgctgttccactactatgacaaagattttaacaatgaagcagacacccct
+gataacttccaatccaggaggccgaacacttctttctgctttcttgacatccgctcacca
+ggcctgggggacacagccatgtacctgtgtgccaccagcagaga
+>L26231|TRBV16*01|Homo sapiens|F|L-PART1+V-EXON|255..303+411..708|347 nt|1| | | | |347+0=347| | |
+atgagcccaatattcacctgcatcacaatcctttgtctgctggctgcaggttctcctggt
+gaagaagtcgcccagactccaaaacatcttgtcagaggggaaggacagaaagcaaaatta
+tattgtgccccaataaaaggacacagttatgttttttggtaccaacaggtcctgaaaaac
+gagttcaagttcttgatttccttccagaatgaaaatgtctttgatgaaacaggtatgccc
+aaggaaagattttcagctaagtgcctcccaaattcaccctgtagccttgagatccaggct
+acgaagcttgaggattcagcagtgtatttttgtgccagcagccaatc
+>U03115|TRBV16*02|Homo sapiens|P|L-PART1+V-EXON|68508..68556+68664..68961|347 nt|1| | | | |347+0=347| | |
+atgagcccaatattcacctgcatcacaatcctttgtctgctggctgcaggttctcctggt
+gaagaagtcgcccagactccaaaacatcttgtcagaggggaaggacagaaagcaaaatta
+tattgtgccccaataaaaggacacagttaggttttttggtaccaacaggtcctgaaaaac
+gagttcaagttcttgatttccttccagaatgaaaatgtctttgatgaaacaggtatgccc
+aaggaaagattttcagctaagtgcctcccaaattcaccctgtagccttgagatccaggct
+acgaagcttgaggattcagcagtgtatttttgtgccagcagccaatc
+>L36092|TRBV18*01|Homo sapiens|F|L-PART1+V-EXON|450546..450594+450867..451164|347 nt|1| | | | |347+0=347| | |
+atggacaccagagtactctgctgtgcggtcatctgtcttctgggggcaggtctctcaaat
+gccggcgtcatgcagaacccaagacacctggtcaggaggaggggacaggaggcaagactg
+agatgcagcccaatgaaaggacacagtcatgtttactggtatcggcagctcccagaggaa
+ggtctgaaattcatggtttatctccagaaagaaaatatcatagatgagtcaggaatgcca
+aaggaacgattttctgctgaatttcccaaagagggccccagcatcctgaggatccagcag
+gtagtgcgaggagattcggcagcttatttctgtgccagctcaccacc
+>L36092|TRBV19*01|Homo sapiens|F|L-PART1+V-EXON|453806..453854+453987..454281|344 nt|1| | | | |344+0=344| | |
+atgagcaaccaggtgctctgctgtgtggtcctttgtttcctgggagcaaacaccgtggat
+ggtggaatcactcagtccccaaagtacctgttcagaaaggaaggacagaatgtgaccctg
+agttgtgaacagaatttgaaccacgatgccatgtactggtaccgacaggacccagggcaa
+gggctgagattgatctactactcacagatagtaaatgactttcagaaaggagatatagct
+gaagggtacagcgtctctcgggagaagaaggaatcctttcctctcactgtgacatcggcc
+caaaagaacccgacagctttctatctctgtgccagtagtataga
+>U48259|TRBV19*02|Homo sapiens|F|L-PART1+V-EXON|50..98+231..525|344 nt|1| | | | |344+0=344| | |
+atgagcaaccaggtgctctgctgtgtggtcctttgtctcctgggagcaaacaccgtggat
+ggtggaatcactcagtccccaaagtacctgttcagaaaggaaggacagaatgtgaccctg
+agttgtgaacagaatttgaaccacgatgccatgtactggtaccgacaggtcccagggcaa
+gggctgagattgatctactactcacacatagtaaatgactttcagaaaggagatatagct
+gaagggtacagcgtctctcgggagaagaaggaatcctttcctctcactgtgacatcggcc
+caaaagaacccgacagctttctatctctgtgccagtagtataga
+>L36092|TRBV2*01|Homo sapiens|F|L-PART1+V-EXON|93552..93600+93689..93986|347 nt|1| | | | |347+0=347| | |
+atggatacctggctcgtatgctgggcaatttttagtctcttgaaagcaggactcacagaa
+cctgaagtcacccagactcccagccatcaggtcacacagatgggacaggaagtgatcttg
+cgctgtgtccccatctctaatcacttatacttctattggtacagacaaatcttggggcag
+aaagtcgagtttctggtttccttttataataatgaaatctcagagaagtctgaaatattc
+gatgatcaattctcagttgaaaggcctgatggatcaaatttcactctgaagatccggtcc
+acaaagctggaggactcagccatgtacttctgtgccagcagtgaagc
+>M11955|TRBV20-1*01|Homo sapiens|F|L-PART1+V-EXON|47..107+413..719|368 nt|1| | | | |368+0=368| | |
+atgctgctgcttctgctgcttctggggccaggtataagcctccttctacctgggagcttg
+gcaggctccgggcttggtgctgtcgtctctcaacatccgagctgggttatctgtaagagt
+ggaacctctgtgaagatcgagtgccgttccctggactttcaggccacaactatgttttgg
+tatcgtcagttcccgaaacagagtctcatgctgatggcaacttccaatgagggctccaag
+gccacatacgagcaaggcgtcgagaaggacaagtttctcatcaaccatgcaagcctgacc
+ttgtccactctgacagtgaccagtgcccatcctgaagacagcagcttctacatctgcagt
+gctagaga
+>X72719|TRBV20-1*02|Homo sapiens|F|L-PART1+V-EXON|1..31+367..668|333 nt|1| | | | |333+0=333|partial in 3'| |
+atgctgctgcttctgctgcttctggggccagcaggctccgggcttggtgctgtcgtctct
+caacatccgagcagggttatctgtaagagtggaacctctgtgaagatcgagtgccgttcc
+ctggactttcaggccacaactatgttttggtatcgtcagttcccgaaacagagtctcatg
+ctgatggcaacttccaatgagggctccaaggccacatacgagcaaggcgtcgagaaggac
+aagtttctcatcaaccatgcaagcctgaccttgtccactctgacagtgaccagtgcccat
+cctgaagacagcagcttctacatctgcagtgct
+>M11951|TRBV24-1*01|Homo sapiens|F|L-PART1+V-EXON|1..49+181..476|345 nt|1| | | | |345+0=345| | |
+atggcctccctgctcttcttctgtggggccttttatctcctgggaacagggtccatggat
+gctgatgttacccagaccccaaggaataggatcacaaagacaggaaagaggattatgctg
+gaatgttctcagactaagggtcatgatagaatgtactggtatcgacaagacccaggactg
+ggcctacggttgatctattactcctttgatgtcaaagatataaacaaaggagagatctct
+gatggatacagtgtctctcgacaggcacaggctaaattctccctgtccctagagtctgcc
+atccccaaccagacagctctttacttctgtgccaccagtgatttg
+>IMGT000021|TRBV24-1*02|Homo sapiens|F|L-PART1+V-EXON|425392..425440+425573..425868|345 nt|1| | | | |345+0=345| | |
+atggcctccctgctcttcttctgtggggccttttatctcctgggaacagggtccatggat
+gctgatgttacccagaccccaaggaataggatcacaaagacaggaaagaggattatgctg
+gaatgttctcagactaagggtcatgatagaatgtactggtatcgacaagacccaggactg
+ggcctacagttgatctattactcctttgatgtcaaagatataaacaaaggagagatctct
+gatggatacagtgtctctcgacaggcacaggctaaattctccctgtccctagagtctgcc
+atccccaaccagacagctctttacttctgtgccaccagtgatttg
+>L36092|TRBV25-1*01|Homo sapiens|F|L-PART1+V-EXON|504415..504463+504588..504882|344 nt|1| | | | |344+0=344| | |
+atgactatcaggctcctctgctacatgggcttttattttctgggggcaggcctcatggaa
+gctgacatctaccagaccccaagataccttgttatagggacaggaaagaagatcactctg
+gaatgttctcaaaccatgggccatgacaaaatgtactggtatcaacaagatccaggaatg
+gaactacacctcatccactattcctatggagttaattccacagagaagggagatctttcc
+tctgagtcaacagtctccagaataaggacggagcattttcccctgaccctggagtctgcc
+aggccctcacatacctctcagtacctctgtgccagcagtgaata
+>L36092|TRBV27*01|Homo sapiens|F|L-PART1+V-EXON|549038..549086+549216..549510|344 nt|1| | | | |344+0=344| | |
+atgggcccccagctccttggctatgtggtcctttgccttctaggagcaggccccctggaa
+gcccaagtgacccagaacccaagatacctcatcacagtgactggaaagaagttaacagtg
+acttgttctcagaatatgaaccatgagtatatgtcctggtatcgacaagacccagggctg
+ggcttaaggcagatctactattcaatgaatgttgaggtgactgataagggagatgttcct
+gaagggtacaaagtctctcgaaaagagaagaggaatttccccctgatcctggagtcgccc
+agccccaaccagacctctctgtacttctgtgccagcagtttatc
+>U08314|TRBV28*01|Homo sapiens|F|L-PART1+V-EXON|214..262+400..694|344 nt|1| | | | |344+0=344| | |
+atgggaatcaggctcctgtgtcgtgtggccttttgtttcctggctgtaggcctcgtagat
+gtgaaagtaacccagagctcgagatatctagtcaaaaggacgggagagaaagtttttctg
+gaatgtgtccaggatatggaccatgaaaatatgttctggtatcgacaagacccaggtctg
+gggctacggctgatctatttctcatatgatgttaaaatgaaagaaaaaggagatattcct
+gaggggtacagtgtctctagagagaagaaggagcgcttctccctgattctggagtccgcc
+agcaccaaccagacatctatgtacctctgtgccagcagtttatg
+>L36092|TRBV29-1*01|Homo sapiens|F|L-PART1+V-EXON|573946..573979+574259..574559|335 nt|1| | | | |335+0=335| | |
+atgctgagtcttctgctccttctcctgggactaggctctgtgttcagtgctgtcatctct
+caaaagccaagcagggatatctgtcaacgtggaacctccctgacgatccagtgtcaagtc
+gatagccaagtcaccatgatgttctggtaccgtcagcaacctggacagagcctgacactg
+atcgcaactgcaaatcagggctctgaggccacatatgagagtggatttgtcattgacaag
+tttcccatcagccgcccaaacctaacattctcaactctgactgtgagcaacatgagccct
+gaagacagcagcatatatctctgcagcgttgaaga
+>U07977|TRBV3-1*01|Homo sapiens|F|L-PART1+V-EXON|5475..5523+5640..5934|344 nt|1| | | | |344+0=344| | |
+atgggctgcaggctcctctgctgtgtggtcttctgcctcctccaagcaggtcccttggac
+acagctgtttcccagactccaaaatacctggtcacacagatgggaaacgacaagtccatt
+aaatgtgaacaaaatctgggccatgatactatgtattggtataaacaggactctaagaaa
+tttctgaagataatgtttagctacaataataaggagctcattataaatgaaacagttcca
+aatcgcttctcacctaaatctccagacaaagctcacttaaatcttcacatcaattccctg
+gagcttggtgactctgctgtgtatttctgtgccagcagccaaga
+>L36092|TRBV30*01|Homo sapiens|F|L-PART1+V-EXON|667298..667340+666640..666931|335 nt|1| | | | |335+0=335| |rev-compl|
+atgctctgctctctccttgcccttctcctgggcactttctttggggtcagatctcagact
+attcatcaatggccagcgaccctggtgcagcctgtgggcagcccgctctctctggagtgc
+actgtggagggaacatcaaaccccaacctatactggtaccgacaggctgcaggcaggggc
+ctccagctgctcttctactccgttggtattggccagatcagctctgaggtgccccagaat
+ctctcagcctccagaccccaggaccggcagttcatcctgagttctaagaagctccttctc
+agtgactctggcttctatctctgtgcctggagtgt
+>Z13967|TRBV30*02|Homo sapiens|F|L-PART1+V-EXON|1..43+408..699|335 nt|1| | | | |335+0=335| | |
+atgctctgctctctccttgcccttctcctgggcactttctttggggtcagatctcagact
+attcatcaatggccagcgaccctggtgcagcctgtgggcagcccgctctctctggagtgc
+actgtggagggaacatcaaaccccaacctatactggtaccgacaggctgcaggcaggggc
+ctccagctgctcttctactccgttggtattggccagatcagctctgaggtgccccagaat
+ctctcagcctccagaccccaggaccggcagttcatcctgagttctaagaagctcctcctc
+agtgactctggcttctatctctgtgcctggagtgt
+>IMGT000027|TRBV30*03|Homo sapiens|P|L-PART1+V-EXON|1..43+410..701|335 nt|1| | | | |335+0=335| | |
+atgctctgctctctccttgcccttctcctgggcactttctttggggtcagatctcagact
+attcatcaatggccagcgaccctggtgcagcctgtgggcagcccgctctctctggagtgc
+actgtggagggaacatcaaaccccaacctatactggtactgacaggctgcaggcaggggc
+ctccagctgctcttctactccgttggtattggccagatcagctctgaggtgccccagaat
+ctctcagcctccagatcccaggaccggcagttcatcctgagttctaagaagctccttctc
+agtgactctggcttctatctctgtgcctggagtgt
+>U07977|TRBV4-1*01|Homo sapiens|F|L-PART1+V-EXON|10102..10150+10260..10554|344 nt|1| | | | |344+0=344| | |
+atgggctgcaggctgctctgctgtgcggttctctgtctcctgggagcagttcccatagac
+actgaagttacccagacaccaaaacacctggtcatgggaatgacaaataagaagtctttg
+aaatgtgaacaacatatggggcacagggctatgtattggtacaagcagaaagctaagaag
+ccaccggagctcatgtttgtctacagctatgagaaactctctataaatgaaagtgtgcca
+agtcgcttctcacctgaatgccccaacagctctctcttaaaccttcacctacacgccctg
+cagccagaagactcagccctgtatctctgcgccagcagccaaga
+>U07975|TRBV4-2*01|Homo sapiens|F|L-PART1+V-EXON|311..359+469..763|344 nt|1| | | | |344+0=344| | |
+atgggctgcaggctgctctgctgtgcggttctctgtctcctgggagcggtccccatggaa
+acgggagttacgcagacaccaagacacctggtcatgggaatgacaaataagaagtctttg
+aaatgtgaacaacatctggggcataacgctatgtattggtacaagcaaagtgctaagaag
+ccactggagctcatgtttgtctacaactttaaagaacagactgaaaacaacagtgtgcca
+agtcgcttctcacctgaatgccccaacagctctcacttattccttcacctacacaccctg
+cagccagaagactcggccctgtatctctgtgccagcagccaaga
+>U07978|TRBV4-3*01|Homo sapiens|F|L-PART1+V-EXON|20774..20831+20932..21226|353 nt|1| | | | |353+0=353| | |
+atgggctgcaggctgctctgctgtgcggttctctgtctcctgggagcgggtgagttggtc
+cccatggaaacgggagttacgcagacaccaagacacctggtcatgggaatgacaaataag
+aagtctttgaaatgtgaacaacatctgggtcataacgctatgtattggtacaagcaaagt
+gctaagaagccactggagctcatgtttgtctacagtcttgaagaacgggttgaaaacaac
+agtgtgccaagtcgcttctcacctgaatgccccaacagctctcacttattccttcaccta
+cacaccctgcagccagaagactcggccctgtatctctgcgccagcagccaaga
+>L36092|TRBV5-1*01|Homo sapiens|F|L-PART1+V-EXON|113622..113670+113798..114091|343 nt|1| | | | |343+0=343| | |
+atgggctccaggctgctctgttgggtgctgctttgtctcctgggagcaggcccagtaaag
+gctggagtcactcaaactccaagatatctgatcaaaacgagaggacagcaagtgacactg
+agctgctcccctatctctgggcataggagtgtatcctggtaccaacagaccccaggacag
+ggccttcagttcctctttgaatacttcagtgagacacagagaaacaaaggaaacttccct
+ggtcgattctcagggcgccagttctctaactctcgctctgagatgaatgtgagcaccttg
+gagctgggggactcggccctttatctttgcgccagcagcttgg
+>L36092|TRBV5-4*01|Homo sapiens|F|L-PART1+V-EXON|277826..277874+277997..278290|343 nt|1| | | | |343+0=343| | |
+atgggccctgggctcctctgctgggtgctgctttgtctcctgggagcaggctcagtggag
+actggagtcacccaaagtcccacacacctgatcaaaacgagaggacagcaagtgactctg
+agatgctcttctcagtctgggcacaacactgtgtcctggtaccaacaggccctgggtcag
+gggccccagtttatctttcagtattatagggaggaagagaatggcagaggaaacttccct
+cctagattctcaggtctccagttccctaattatagctctgagctgaatgtgaacgccttg
+gagctggacgactcggccctgtatctctgtgccagcagcttgg
+>L36092|TRBV5-5*01|Homo sapiens|F|L-PART1+V-EXON|297271..297319+297442..297735|343 nt|1| | | | |343+0=343| | |
+atgggccctgggctcctctgctgggtgctgctttgtctcctgggagcaggcccagtggac
+gctggagtcacccaaagtcccacacacctgatcaaaacgagaggacagcaagtgactctg
+agatgctctcctatctctgggcacaagagtgtgtcctggtaccaacaggtcctgggtcag
+gggccccagtttatctttcagtattatgagaaagaagagagaggaagaggaaacttccct
+gatcgattctcagctcgccagttccctaactatagctctgagctgaatgtgaacgccttg
+ttgctgggggactcggccctgtatctctgtgccagcagcttgg
+>L36092|TRBV5-6*01|Homo sapiens|F|L-PART1+V-EXON|314783..314831+314955..315248|343 nt|1| | | | |343+0=343| | |
+atgggccccgggctcctctgctgggcactgctttgtctcctgggagcaggcttagtggac
+gctggagtcacccaaagtcccacacacctgatcaaaacgagaggacagcaagtgactctg
+agatgctctcctaagtctgggcatgacactgtgtcctggtaccaacaggccctgggtcag
+gggccccagtttatctttcagtattatgaggaggaagagagacagagaggcaacttccct
+gatcgattctcaggtcaccagttccctaactatagctctgagctgaatgtgaacgccttg
+ttgctgggggactcggccctctatctctgtgccagcagcttgg
+>L36092|TRBV5-8*01|Homo sapiens|F|L-PART1+V-EXON|354936..354984+355109..355402|343 nt|1| | | | |343+0=343| | |
+atgggacccaggctcctcttctgggcactgctttgtctcctcggaacaggcccagtggag
+gctggagtcacacaaagtcccacacacctgatcaaaacgagaggacagcaagcgactctg
+agatgctctcctatctctgggcacaccagtgtgtactggtaccaacaggccctgggtctg
+ggcctccagttcctcctttggtatgacgagggtgaagagagaaacagaggaaacttccct
+cctagattttcaggtcgccagttccctaattatagctctgagctgaatgtgaacgccttg
+gagctggaggactcggccctgtatctctgtgccagcagcttgg
+>X61446|TRBV6-1*01|Homo sapiens|F|L-PART1+V-EXON|269..317+404..698|344 nt|1| | | | |344+0=344| | |
+atgagcatcgggctcctgtgctgtgtggccttttctctcctgtgggcaagtccagtgaat
+gctggtgtcactcagaccccaaaattccaggtcctgaagacaggacagagcatgacactg
+cagtgtgcccaggatatgaaccataactccatgtactggtatcgacaagacccaggcatg
+ggactgaggctgatttattactcagcttctgagggtaccactgacaaaggagaagtcccc
+aatggctacaatgtctccagattaaacaaacgggagttctcgctcaggctggagtcggct
+gctccctcccagacatctgtgtacttctgtgccagcagtgaagc
+>X61445|TRBV6-2*01|Homo sapiens|F|L-PART1+V-EXON|267..315+404..698|344 nt|1| | | | |344+0=344| | |
+atgagcctcgggctcctgtgctgtggggccttttctctcctgtgggcaggtccagtgaat
+gctggtgtcactcagaccccaaaattccgggtcctgaagacaggacagagcatgacactg
+ctgtgtgcccaggatatgaaccatgaatacatgtactggtatcgacaagacccaggcatg
+gggctgaggctgattcattactcagttggtgagggtacaactgccaaaggagaggtccct
+gatggctacaatgtctccagattaaaaaaacagaatttcctgctggggttggagtcggct
+gctccctcccaaacatctgtgtacttctgtgccagcagttactc
+>U07978|TRBV6-3*01|Homo sapiens|F|L-PART1+V-EXON|28984..29032+29121..29415|344 nt|1| | | | |344+0=344| | |
+atgagcctcgggctcctgtgctgtggggccttttctctcctgtgggcaggtccagtgaat
+gctggtgtcactcagaccccaaaattccgggtcctgaagacaggacagagcatgacactg
+ctgtgtgcccaggatatgaaccatgaatacatgtactggtatcgacaagacccaggcatg
+gggctgaggctgattcattactcagttggtgagggtacaactgccaaaggagaggtccct
+gatggctacaatgtctccagattaaaaaaacagaatttcctgctggggttggagtcggct
+gctccctcccaaacatctgtgtacttctgtgccagcagttactc
+>X61653|TRBV6-4*01|Homo sapiens|F|L-PART1+V-EXON|280..328+418..712|344 nt|1| | | | |344+0=344| | |
+atgagaatcaggctcctgtgctgtgtggccttttctctcctgtgggcaggtccagtgatt
+gctgggatcacccaggcaccaacatctcagatcctggcagcaggacggcgcatgacactg
+agatgtacccaggatatgagacataatgccatgtactggtatagacaagatctaggactg
+gggctaaggctcatccattattcaaatactgcaggtaccactggcaaaggagaagtccct
+gatggttatagtgtctccagagcaaacacagatgatttccccctcacgttggcgtctgct
+gtaccctctcagacatctgtgtacttctgtgccagcagtgactc
+>AF009660|TRBV6-4*02|Homo sapiens|F|L-PART1+V-EXON|35649..35697+35789..36083|344 nt|1| | | | |344+0=344| | |
+atgagcatcaggctcctgtgctgtgtggccttttctctcctgtgggcaggtccagtgact
+gctgggatcacccaggcaccaacatctcagatcctggcagcaggacggagcatgacactg
+agatgtacccaggatatgagacataatgccatgtactggtatagacaagatctaggactg
+gggctaaggctcatccattattcaaatactgcaggtaccactggcaaaggagaagtccct
+gatggttatagtgtctccagagcaaacacagatgatttccccctcacgttggcgtctgct
+gtaccctctcagacatctgtgtacttctgtgccagcagtgactc
+>L36092|TRBV6-5*01|Homo sapiens|F|L-PART1+V-EXON|265721..265769+265862..266156|344 nt|1| | | | |344+0=344| | |
+atgagcatcggcctcctgtgctgtgcagccttgtctctcctgtgggcaggtccagtgaat
+gctggtgtcactcagaccccaaaattccaggtcctgaagacaggacagagcatgacactg
+cagtgtgcccaggatatgaaccatgaatacatgtcctggtatcgacaagacccaggcatg
+gggctgaggctgattcattactcagttggtgctggtatcactgaccaaggagaagtcccc
+aatggctacaatgtctccagatcaaccacagaggatttcccgctcaggctgctgtcggct
+gctccctcccagacatctgtgtacttctgtgccagcagttactc
+>L36092|TRBV6-6*01|Homo sapiens|F|L-PART1+V-EXON|284296..284344+284434..284728|344 nt|1| | | | |344+0=344| | |
+atgagcatcagcctcctgtgctgtgcagcctttcctctcctgtgggcaggtccagtgaat
+gctggtgtcactcagaccccaaaattccgcatcctgaagataggacagagcatgacactg
+cagtgtacccaggatatgaaccataactacatgtactggtatcgacaagacccaggcatg
+gggctgaagctgatttattattcagttggtgctggtatcactgataaaggagaagtcccg
+aatggctacaacgtctccagatcaaccacagaggatttcccgctcaggctggagttggct
+gctccctcccagacatctgtgtacttctgtgccagcagttactc
+>AF009662|TRBV6-6*02|Homo sapiens|F|L-PART1+V-EXON|24718..24766+24856..25150|344 nt|1| | | | |344+0=344| | |
+atgagcatcagcctcctgtgctgtgcagcctttcctctcctgtgggcaggtccagtgaat
+gctggtgtcactcagaccccaaaattccgcatcctgaagataggacagagcatgacactg
+cagtgtgcccaggatatgaaccataactacatgtactggtatcgacaagacccaggcatg
+gggctgaagctgatttattattcagttggtgctggtatcactgacaaaggagaagtcccg
+aatggctacaacgtctccagatcaaccacagaggatttcccgctcaggctggagttggct
+gctccctcccagacatctgtgtacttctgtgccagcagttactc
+>L36092|TRBV6-8*01|Homo sapiens|F|L-PART1+V-EXON|322095..322143+322232..322523|341 nt|1| | | | |341+0=341| | |
+atgagcctcgggctcctgtgctgtgcggccttttctctcctgtgggcaggtcccgtgaat
+gctggtgtcactcagaccccaaaattccacatcctgaagacaggacagagcatgacactg
+cagtgtgcccaggatatgaaccatggatacatgtcctggtatcgacaagacccaggcatg
+gggctgagactgatttactactcagctgctgctggtactactgacaaagaagtccccaat
+ggctacaatgtctctagattaaacacagaggatttcccactcaggctggtgtcggctgct
+ccctcccagacatctgtgtacttgtgtgccagcagttactc
+>X61447|TRBV6-9*01|Homo sapiens|F|L-PART1+V-EXON|240..288+372..666|344 nt|1| | | | |344+0=344| | |
+atgagcatcgggctcctgtgctgtgtggccttttctctcctgtgggagggtccagtgaat
+gctggtgtcactcagaccccaaaattccacatcctgaagacaggacagagcatgacactg
+cagtgtgcccaggatatgaaccatggatacttgtcctggtatcgacaagacccaggcatg
+gggctgaggcgcattcattactcagttgctgctggtatcactgacaaaggagaagtcccc
+gatggctacaatgtatccagatcaaacacagaggatttcccgctcaggctggagtcagct
+gctccctcccagacatctgtatacttctgtgccagcagttattc
+>X61442|TRBV7-2*01|Homo sapiens|F|L-PART1+V-EXON|336..384+537..834|347 nt|1| | | | |347+0=347| | |
+atgggcaccaggctcctcttctgggtggccttctgtctcctgggggcagatcacacagga
+gctggagtctcccagtcccccagtaacaaggtcacagagaagggaaaggatgtagagctc
+aggtgtgatccaatttcaggtcatactgccctttactggtaccgacagagcctggggcag
+ggcctggagtttttaatttacttccaaggcaacagtgcaccagacaaatcagggctgccc
+agtgatcgcttctctgcagagaggactgggggatccgtctccactctgacgatccagcgc
+acacagcaggaggactcggccgtgtatctctgtgccagcagcttagc
+>L36190|TRBV7-2*02|Homo sapiens|F|L-PART1+V-EXON|9043..9091+9228..9525|347 nt|1| | | | |347+0=347| | |
+atgggcaccaggctcctcttctgggtggccttctgtctcctgggggcatatcacacagga
+gctggagtctcccagtcccccagtaacaaggtcacagagaagggaaaggatgtagagctc
+aggtgtgatccaatttcaggtcatactgccctttactggtaccgacagaggctggggcag
+ggcctggagtttttaatttacttccaaggcaacagtgcaccagacaaatcagggctgccc
+agtgatcgcttctctgcagagaggactggggaatccgtctccactctgacgatccagcgc
+acacagcaggaggactcggccgtgtatctctgtgccagcagcttagc
+>U07975|TRBV7-2*03|Homo sapiens|F|L-PART1+V-EXON|7610..7658+7795..8092|347 nt|1| | | | |347+0=347| | |
+atgggcaccaggctcctcttctgggtggccttctgtctcctgggggcatatcacacagga
+gctggagtctcccagtcccccagtaacaaggtcacagagaagggaaaggatgtagagctc
+aggtgtgatccaatttcaggtcatactgccctttactggtaccgacagaggctggggcag
+ggcctggagtttttaatttacttccaaggcaacagtgcaccagacaaatcagggctgccc
+agtgatcgcttctctgcagagaggactggggaatccgtctccactctgacgatccagcgc
+acacagcaggaggactcggccgtgtatctctgtaccagcagcttagc
+>X61440|TRBV7-3*01|Homo sapiens|F|L-PART1+V-EXON|581..629+740..1037|347 nt|1| | | | |347+0=347| | |
+atgggcaccaggctcctctgctgggcagccctgtgcctcctgggggcagatcacacaggt
+gctggagtctcccagacccccagtaacaaggtcacagagaagggaaaatatgtagagctc
+aggtgtgatccaatttcaggtcatactgccctttactggtaccgacaaagcctggggcag
+ggcccagagtttctaatttacttccaaggcacgggtgcggcagatgactcagggctgccc
+aacgatcggttctttgcagtcaggcctgagggatccgtctctactctgaagatccagcgc
+acagagcggggggactcagccgtgtatctctgtgccagcagcttaac
+>M97943|TRBV7-3*02|Homo sapiens|ORF|L-PART1+V-EXON|229..277+396..693|347 nt|3| | | | |347+0=347|partial in 5'| |
+atgggcaccaggctcctctgctgggcagccctgtgcctcctgggggcagatcacacaggt
+gctggagtctcccagacccccagtaacaaggtcacagagaagggaaaagatgtagagctc
+aggtgtgatccaatttcaggtcatactgccctttactggtaccgacaaagcctggggcag
+ggcccagagtttctaatttacttccaaggcacgggtgcggcagatgactcagggctgccc
+aaagatcggttctttgcagtcaggcctgagggatccgtctctactctgaagatccagcgc
+acagagcagggggactcagccgtgtatctccgtgccagcagcttaac
+>AF009660|TRBV7-3*03|Homo sapiens|ORF|L-PART1+V-EXON|39201..39249+39366..39663|347 nt|1| | | | |347+0=347| | |
+atgggcaccaggctcctctgctgggcagccctgtgcctcctgggggcagatcacacaggt
+gctggagtctcccagacccccagtaacaaggtcacagagaagggaaaagatgtagagctc
+aggtgtgatccaatttcaggtcatactgccctttactggtaccgacaaagcctggggcag
+ggcccagagtttctaatttacttccaaggcacgggtgcggcagatgactcagggctgccc
+aaagatcggttctttgcagtcaggcctgagggatccgtctctactctgaagatccagcgc
+acagagcagggggactcagccgcgtatctccgtgccagcagcttaac
+>L36092|TRBV7-4*01|Homo sapiens|F|L-PART1+V-EXON|269879..269927+270043..270340|347 nt|1| | | | |347+0=347| | |
+atgggcaccaggctcctctgctgggtggtcctgggtttcctagggacagatcacacaggt
+gctggagtctcccagtccccaaggtacaaagtcgcaaagaggggacgggatgtagctctc
+aggtgtgattcaatttcgggtcatgtaaccctttattggtaccgacagaccctggggcag
+ggctcagaggttctgacttactcccagagtgatgctcaacgagacaaatcagggcggccc
+agtggtcggttctctgcagagaggcctgagagatccgtctccactctgaagatccagcgc
+acagagcagggggactcagctgtgtatctctgtgccagcagcttagc
+>L13762|TRBV7-4*02|Homo sapiens|[P]|L-PART1+V-EXON|1..21+137..404|289 nt|3| | | | |289+0=289|partial in 5' and in 3' | |
+tcctgggtttcctagggacagatcacacaggtgctggagtctcccagtccccaaggtaca
+aagtcgcaaagaggggacgggatgtagctctcaggtgtgattcaatttcgggtcatgtaa
+ccctttattggtaccgacagaccctggggcagggctcagaggttctgacttactcccaga
+gtgatgctcaacgagacaaatcagggcggcccagtggtcggttctctgcagagaggcctg
+agagatcgtctccactccgaagatccagcgcacagagcagggggactca
+>L36092|TRBV7-6*01|Homo sapiens|F|L-PART1+V-EXON|306894..306942+307089..307386|347 nt|1| | | | |347+0=347| | |
+atgggcaccagtctcctatgctgggtggtcctgggtttcctagggacagatcacacaggt
+gctggagtctcccagtctcccaggtacaaagtcacaaagaggggacaggatgtagctctc
+aggtgtgatccaatttcgggtcatgtatccctttattggtaccgacaggccctggggcag
+ggcccagagtttctgacttacttcaattatgaagcccaacaagacaaatcagggctgccc
+aatgatcggttctctgcagagaggcctgagggatccatctccactctgacgatccagcgc
+acagagcagcgggactcggccatgtatcgctgtgccagcagcttagc
+>L36092|TRBV7-7*01|Homo sapiens|F|L-PART1+V-EXON|326337..326385+326541..326838|347 nt|1| | | | |347+0=347| | |
+atgggtaccagtctcctatgctgggtggtcctgggtttcctagggacagatcacacaggt
+gctggagtctcccagtctcccaggtacaaagtcacaaagaggggacaggatgtaactctc
+aggtgtgatccaatttcgagtcatgcaaccctttattggtatcaacaggccctggggcag
+ggcccagagtttctgacttacttcaattatgaagctcaaccagacaaatcagggctgccc
+agtgatcggttctctgcagagaggcctgagggatccatctccactctgacgattcagcgc
+acagagcagcgggactcagccatgtatcgctgtgccagcagcttagc
+>M11953|TRBV7-8*01|Homo sapiens|F|L-PART1+V-EXON|21..69+207..504|347 nt|1| | | | |347+0=347| | |
+atgggcaccaggctcctctgctgggtggtcctgggtttcctagggacagatcacacaggt
+gctggagtctcccagtcccctaggtacaaagtcgcaaagagaggacaggatgtagctctc
+aggtgtgatccaatttcgggtcatgtatcccttttttggtaccaacaggccctggggcag
+gggccagagtttctgacttatttccagaatgaagctcaactagacaaatcggggctgccc
+agtgatcgcttctttgcagaaaggcctgagggatccgtctccactctgaagatccagcgc
+acacagcaggaggactccgccgtgtatctctgtgccagcagcttagc
+>X61441|TRBV7-8*02|Homo sapiens|F|L-PART1+V-EXON|303..351+489..786|347 nt|1| | | | |347+0=347| | |
+atgggcaccaggctcctctgctgggtggtcctgggtttcctagggacagatcacacaggt
+gctggagtctcccagtcccctaggtacaaagtcgcaaagagaggacaggatgtagctctc
+aggtgtgatccaatttcgggtcatgtatcccttttttggtaccaacaggccctggggcag
+gggccagagtttctgacttatttccagaatgaagctcaactagacaaatcggggctgccc
+agtgatcgcttctttgcagaaaggcctgagggatccgtctccactctgaagatccagcgc
+acacagaaggaggactccgccgtgtatctctgtgccagcagcttagc
+>L36092|TRBV7-9*01|Homo sapiens|F|L-PART1+V-EXON|364137..364185+364312..364609|347 nt|1| | | | |347+0=347| | |
+atgggcaccagcctcctctgctggatggccctgtgtctcctgggggcagatcacgcagat
+actggagtctcccagaaccccagacacaagatcacaaagaggggacagaatgtaactttc
+aggtgtgatccaatttctgaacacaaccgcctttattggtaccgacagaccctggggcag
+ggcccagagtttctgacttacttccagaatgaagctcaactagaaaaatcaaggctgctc
+agtgatcggttctctgcagagaggcctaagggatctttctccaccttggagatccagcgc
+acagagcagggggactcggccatgtatctctgtgccagcagcttagc
+>AF009663|TRBV7-9*03|Homo sapiens|F|L-PART1+V-EXON|108780..108828+108955..109252|347 nt|1| | | | |347+0=347| | |
+atgggcaccagcctcctctgctggatggccctgtgtctcctgggggcagatcacgcagat
+actggagtctcccaggaccccagacacaagatcacaaagaggggacagaatgtaactttc
+aggtgtgatccaatttctgaacacaaccgcctttattggtaccgacagaccctggggcag
+ggcccagagtttctgacttacttccagaatgaagctcaactagaaaaatcaaggctgctc
+agtgatcggttctctgcagagaggcctaagggatctttctccaccttggagatccagcgc
+acagagcagggggactcggccatgtatctctgtgccagcagcttagc
+>L36092|TRBV9*01|Homo sapiens|F|L-PART1+V-EXON|206647..206695+206828..207121|343 nt|1| | | | |343+0=343| | |
+atgggcttcaggctcctctgctgtgtggccttttgtctcctgggagcaggcccagtggat
+tctggagtcacacaaaccccaaagcacctgatcacagcaactggacagcgagtgacgctg
+agatgctcccctaggtctggagacctctctgtgtactggtaccaacagagcctggaccag
+ggcctccagttcctcattcagtattataatggagaagagagagcaaaaggaaacattctt
+gaacgattctccgcacaacagttccctgacttgcactctgaactaaacctgagctctctg
+gagctgggggactcagctttgtatttctgtgccagcagcgtag
+>AF009660|TRBV9*02|Homo sapiens|F|L-PART1+V-EXON|46760..46808+46941..47234|343 nt|1| | | | |343+0=343| | |
+atgggcttcaggctcctctgctgtgtggccttttgtctcctgggagcaggcccagtggat
+tctggagtcacacaaaccccaaagcacctgatcacagcaactggacagcgagtgacgctg
+agatgctcccctaggtctggagacctctctgtgtactggtaccaacagagcctggaccag
+ggcctccagttcctcattcactattataatggagaagagagagcaaaaggaaacattctt
+gaacgattctccgcacaacagttccctgacttgcactctgaactaaacctgagctctctg
+gagctgggggactcagctttgtatttctgtgccagcagcgtag

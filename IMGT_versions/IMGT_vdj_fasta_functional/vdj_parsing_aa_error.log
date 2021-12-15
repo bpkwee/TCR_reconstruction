@@ -1,0 +1,470 @@
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: nan did not start with: TRAV, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV38-2DV8 -> TRAV38*2DV8
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV29DV5 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV14DV4 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV36DV7 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV23DV6 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV9 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV14-1 -> TRAV14*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV1 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV8 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV1-4 -> TRAV1*4
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV28 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV2-1 -> TRAV2*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV26 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV15 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV2-3 -> TRAV2*3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV4-1 -> TRAV4*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV15-1 -> TRAV15*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV23 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV2-2 -> TRAV2*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV12 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV14 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV12-4 -> TRAV12*4
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV38-2 -> TRAV38*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV29 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV31 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV11 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV21-1 -> TRAV21*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV21-2 -> TRAV21*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV3-1 -> TRAV3*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV35-1 -> TRAV35*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV12-2, TRAV21 -> TRAV12*2, TRAV21
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: TRDV1 did not start with: TRAV, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV8-2/8-4 -> TRAV8*2/8*4
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRAV29/DV5:05 -> TRAV29/DV5*05
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV78 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRAV24:01/TRAV24:02 -> TRAV24*01/TRAV24*02
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV3 F first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV29/DV5 F first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV8-1 F -> TRAV8*1 F
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV38-2/DV8 F -> TRAV38*2/DV8 F
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRAV13-2/13-2:02 -> TRAV13-2/13-2*02
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV121 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV-2 -> TRAV*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV53 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV56 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV33 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV13 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV32 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV36 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV37 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV38 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV42 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV43 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV44 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV45 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV46 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV47 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV48 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV49 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV50 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV51 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV52 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV54 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV55 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV14DV4. first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV29DV5. first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAV23DV6. first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: TRA1-2 did not start with: TRAV, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV38-2/DV8-1 -> TRAV38*2/DV8*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: 36/DV7*01 did not start with: TRAV, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV20-1 -> TRAV20*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV24-1 -> TRAV24*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV10-2 -> TRAV10*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV6-1 -> TRAV6*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: mTRDV2-2 did not start with: TRAV, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: mTRAV14D-1 did not start with: TRAV, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAV29-1 -> TRAV29*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRAV14-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRAV29-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRAV27-01*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: TRDV02-01 did not start with: TRAV, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRAV24-01*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: nan did not start with: TRAJ, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ58 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ25 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ1 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ5-1 -> TRAJ5*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ2 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ1-3 -> TRAJ1*3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ9-1 -> TRAJ9*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ16-5 -> TRAJ16*5
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ1-8 -> TRAJ1*8
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ3-2 -> TRAJ3*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ9-14 -> TRAJ9*14
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ16-1 -> TRAJ16*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ37-2 -> TRAJ37*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRAJ1-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRAJ2-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRAJ58:01 -> TRAJ58*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ19 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ2-1 -> TRAJ2*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ3-1 -> TRAJ3*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJF first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ2-2 -> TRAJ2*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRAJ3:58 0 -> TRAJ3*58 0
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRAJ6: 56 0 -> TRAJ6* 56 0
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRAJ9:53 -> TRAJ9*53
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ5 58 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ47-1 -> TRAJ47*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ24-1 -> TRAJ24*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ32-1 -> TRAJ32*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ4-1 -> TRAJ4*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ37-1 -> TRAJ37*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ65 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ1-16 -> TRAJ1*16
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRAJ2-5 -> TRAJ2*5
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ3 49 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ61 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ5 60 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ23 60 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ24 53 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ4 62 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ5 56 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ15 60 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ32 57 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ58 60 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ37 59 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ37 60 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ16 55 1 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ16 57 1 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ4 58 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ6 59 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ47 57 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ9 56 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ6 58 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ32 59 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ4 57 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ5 59 1 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ8 51 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ9 57 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ23 45 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ15 55 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ8 56 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ6 57 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ7 56 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ8 54 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ15 57 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ13 58 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ13 59 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ7 52 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ7 55 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ8 53 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ58 59 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ9 55 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ15 58 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ37 58 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ23 58 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ3 56 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ23 59 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ58 58 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ8 60 0 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ5 58 1 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRAJ37 61 0 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: CATSESSGQTYEQYF did not start with: TRAJ, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: TRDJ01-01*01 did not start with: TRAJ, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRAJ47-01*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRAJ06-01*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: TRDJ1 did not start with: TRAJ, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: nan did not start with: TRBV, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV21-1 -> TRBV21*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV6-7 -> TRBV6*7
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV5-7 -> TRBV5*7
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV23-1 -> TRBV23*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV5-3 -> TRBV5*3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV22 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV6 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV7 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV13-2 -> TRBV13*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV4 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV12 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV20-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV21 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV5 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV8 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV3 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV23 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV17 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV12-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV6-07
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV8-2 -> TRBV8*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV21-03
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV1-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV11 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV1 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV13-3 -> TRBV13*3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV20 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV10-02
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV6-02/3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV24 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV10-03
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV10 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV29 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV5-07
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV10-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV3-02
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV1-02
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV13-06
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV21-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV1-05
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV6-02/TRBV6-03
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV12-02
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV6-02/6-03
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV23-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV12-03/4
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV2-05
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV-012
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV7-08/TRBV7-02
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV12-03/TRBV12-04
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV12-03,TRBV12-04
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV7-08, TRBV7-02
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV6-01,TRBV6-06
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV6-01,TRBV6-05,TRBV6-06
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV6-02,TRBV6-03
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV7-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV2-1 -> TRBV2*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV7-1 -> TRBV7*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV13-1 -> TRBV13*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV20-1:03-07
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV6-2/3 -> TRBV6*2/3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV201-1 -> TRBV201*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV12-3/4 -> TRBV12*3/4
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV12-3/12-4 -> TRBV12*3/12*4
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV3-2 -> TRBV3*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV6-2/6-3 -> TRBV6*2/6*3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV1-1 -> TRBV1*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV29/DV5:01 -> TRBV29/DV5*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV26-1:03 -> TRBV26-1*03
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV4:01 -> TRBV4*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV26-1:01 -> TRBV26-1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV17:01 -> TRBV17*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV8-4:05 -> TRBV8-4*05
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV1-5:01 -> TRBV1-5*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV2-2:01 -> TRBV2-2*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV2-1:01 -> TRBV2-1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV1-2:01 -> TRBV1-2*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV1-1:01 -> TRBV1-1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV1-4:01 -> TRBV1-4*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV2-6:01 -> TRBV2-6*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV3:01 -> TRBV3*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV8-1:01 -> TRBV8-1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV8-2:01 -> TRBV8-2*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV2-7:01 -> TRBV2-7*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV19:04 -> TRBV19*04
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV19:06 -> TRBV19*06
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV22:01 -> TRBV22*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV26-2:01 -> TRBV26-2*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV23/DV6:01 -> TRBV23/DV6*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBV19:05 -> TRBV19*05
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV2-1/TRBV2-3 -> TRBV2*1/TRBV2*3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV2-1, -> TRBV2*1,
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV2-1/TRBV2-2/TRBV2-3 -> TRBV2*1/TRBV2*2/TRBV2*3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV2-2 -> TRBV2*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV2-1/TRBV2-2 -> TRBV2*1/TRBV2*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV6-2,6-3 -> TRBV6*2,6*3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV12-3,12-4 -> TRBV12*3,12*4
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV3-1/3-2 -> TRBV3*1/3*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV6-1/6-5/6-6 -> TRBV6*1/6*5/6*6
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV12-2 -> TRBV12*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV-2 -> TRBV*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV-3 -> TRBV*3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV-6 -> TRBV*6
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV-5 -> TRBV*5
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV-4 -> TRBV*4
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV-7 -> TRBV*7
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV-9 -> TRBV*9
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV8-3 -> TRBV8*3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV9-1 -> TRBV9*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV15-1*01 -> TRBV15*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV22-1*01 -> TRBV22*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV7-1*01 -> TRBV7*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV21-1*01 -> TRBV21*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV26-1*01 -> TRBV26*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV13-1*01 -> TRBV13*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV5-2*01 -> TRBV5*2*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV1-1*01 -> TRBV1*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV12-1*01 -> TRBV12*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV23-1*01 -> TRBV23*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV8-2*01 -> TRBV8*2*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV17-1*01 -> TRBV17*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV6-7*01 -> TRBV6*7*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV14-1*01 -> TRBV14*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV7-5*01 -> TRBV7*5*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV5-7*01 -> TRBV5*7*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV2-1*01 -> TRBV2*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV16-1 -> TRBV16*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV19-1 -> TRBV19*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV9-02*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV12-2*01 -> TRBV12*2*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV30-1*01 -> TRBV30*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV1-2 -> TRBV1*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBV1-3 -> TRBV1*3
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: TRBJ2-7 did not start with: TRBV, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - WARNING zeros did not work for TRBV05
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV05 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV15-01*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV07-09
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - WARNING zeros did not work for TRBV06
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV06 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - WARNING zeros did not work for TRBV03
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV03 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBV09-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - WARNING zeros did not work for TRBV07
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV07 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - WARNING zeros did not work for TRBV04
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV04 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV13S1 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBV20S1 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: nan did not start with: TRBD, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: None did not start with: TRBD, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBD2-1 -> TRBD2*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBD1-1 -> TRBD1*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBD2-2 -> TRBD2*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBD1-2 -> TRBD1*2
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBD1, TRBD2 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBDTRBJ2-6 -> TRBDTRBJ2*6
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBD first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBD2-2:01 -> TRBD2-2*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBD2-1*02 -> TRBD2*1*02
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBD1-1*01 -> TRBD1*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBD2-1*01 -> TRBD2*1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBD01-01*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBD02-01*02
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: unknown did not start with: TRBD, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBD02-01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - Could not fix -0 for TRBD02-01*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: na did not start with: TRBD, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBD1,TRBD2 first 2 digits matches no keys
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: nan did not start with: TRBJ, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ3-1 -> TRBJ3*1
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBJ2 first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-7 -> TRBJ1*7
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ5-6 -> TRBJ5*6
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: TRAJ30 did not start with: TRBJ, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: TRAJ26 did not start with: TRBJ, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ53:01 -> TRBJ53*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJTRBJ2-7 -> TRBJTRBJ2*7
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ54:01 -> TRBJ54*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ3-1:01 -> TRBJ3-1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ42:01 -> TRBJ42*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ39:01 -> TRBJ39*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ45:01 -> TRBJ45*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ2:01 -> TRBJ2*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ1:01 -> TRBJ1*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ31:01 -> TRBJ31*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ43:01 -> TRBJ43*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ33:01 -> TRBJ33*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBJ first 2 digits matches more than one key
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ27:01 -> TRBJ27*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ37:02 -> TRBJ37*02
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ8:01 -> TRBJ8*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ52:01 -> TRBJ52*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ9:01 -> TRBJ9*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	missed exception replacing : for * TRBJ36:01 -> TRBJ36*01
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-246 -> TRBJ1*246
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-203 -> TRBJ1*203
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-59 -> TRBJ1*59
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-258 -> TRBJ1*258
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-164 -> TRBJ1*164
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-304 -> TRBJ1*304
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-89 -> TRBJ1*89
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-229 -> TRBJ1*229
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-223 -> TRBJ1*223
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-305 -> TRBJ1*305
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-90 -> TRBJ1*90
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-91 -> TRBJ1*91
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-92 -> TRBJ1*92
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-93 -> TRBJ1*93
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-94 -> TRBJ1*94
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-95 -> TRBJ1*95
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-96 -> TRBJ1*96
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-97 -> TRBJ1*97
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-98 -> TRBJ1*98
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-99 -> TRBJ1*99
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-100 -> TRBJ1*100
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-101 -> TRBJ1*101
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-102 -> TRBJ1*102
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-103 -> TRBJ1*103
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-104 -> TRBJ1*104
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-105 -> TRBJ1*105
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-106 -> TRBJ1*106
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-107 -> TRBJ1*107
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-108 -> TRBJ1*108
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-109 -> TRBJ1*109
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-110 -> TRBJ1*110
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-111 -> TRBJ1*111
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-112 -> TRBJ1*112
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-113 -> TRBJ1*113
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-114 -> TRBJ1*114
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-115 -> TRBJ1*115
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-130 -> TRBJ1*130
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-314 -> TRBJ1*314
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-205 -> TRBJ1*205
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-234 -> TRBJ1*234
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-292 -> TRBJ1*292
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-116 -> TRBJ1*116
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-117 -> TRBJ1*117
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-49 -> TRBJ1*49
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-8 -> TRBJ1*8
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-9 -> TRBJ1*9
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-118 -> TRBJ1*118
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-220 -> TRBJ1*220
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-238 -> TRBJ1*238
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-241 -> TRBJ1*241
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-274 -> TRBJ1*274
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-306 -> TRBJ1*306
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-119 -> TRBJ1*119
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-44 -> TRBJ1*44
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-216 -> TRBJ1*216
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-302 -> TRBJ1*302
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-163 -> TRBJ1*163
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-12 -> TRBJ1*12
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-26 -> TRBJ1*26
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-31 -> TRBJ1*31
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-40 -> TRBJ1*40
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-41 -> TRBJ1*41
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-63 -> TRBJ1*63
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-120 -> TRBJ1*120
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-121 -> TRBJ1*121
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-219 -> TRBJ1*219
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-259 -> TRBJ1*259
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-122 -> TRBJ1*122
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-123 -> TRBJ1*123
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-235 -> TRBJ1*235
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-32 -> TRBJ1*32
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-124 -> TRBJ1*124
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-14 -> TRBJ1*14
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-33 -> TRBJ1*33
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-125 -> TRBJ1*125
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-126 -> TRBJ1*126
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-195 -> TRBJ1*195
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-196 -> TRBJ1*196
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-197 -> TRBJ1*197
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-198 -> TRBJ1*198
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-232 -> TRBJ1*232
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-233 -> TRBJ1*233
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-287 -> TRBJ1*287
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-268 -> TRBJ1*268
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-87 -> TRBJ1*87
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-127 -> TRBJ1*127
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-208 -> TRBJ1*208
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-129 -> TRBJ1*129
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-168 -> TRBJ1*168
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-209 -> TRBJ1*209
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-278 -> TRBJ1*278
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-279 -> TRBJ1*279
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-131 -> TRBJ1*131
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-132 -> TRBJ1*132
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-133 -> TRBJ1*133
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-20 -> TRBJ1*20
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-21 -> TRBJ1*21
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-22 -> TRBJ1*22
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-23 -> TRBJ1*23
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-134 -> TRBJ1*134
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	replacing - for * FAILED for: TRBJ1-135 -> TRBJ1*135
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: Donor 13 did not start with: TRBJ, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	entry: Negative did not start with: TRBJ, adding None to entry in dict.
+11/08/2021 02:32:54 - vdj_parsing_aa_ - WARNING - 	TRBJ1S2 first 2 digits matches no keys
