@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81af6a85-d46b-4acb-a8be-6911911e297e" name="Changes" comment="update structure">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="f343f086-f182-465f-a05f-529bee608911" name="Changes" comment="updat directory structure">
+      <change afterPath="$PROJECT_DIR$/saved_data/example.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reconstruct_tcrs_example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/reconstruct_tcrs_example.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,14 +12,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="22JiA3055lcNNdwcDcBbSqEw1hp" />
+  <component name="ProjectId" id="22JjehozcnCBiKFSbEuXprZca8M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,25 +24,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="81af6a85-d46b-4acb-a8be-6911911e297e" name="Changes" comment="" />
-      <created>1639561943503</created>
+      <changelist id="f343f086-f182-465f-a05f-529bee608911" name="Changes" comment="" />
+      <created>1639562681161</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1639561943503</updated>
-      <workItem from="1639561946310" duration="149000" />
-      <workItem from="1639562133372" duration="558000" />
+      <updated>1639562681161</updated>
+      <workItem from="1639562685011" duration="1833000" />
     </task>
-    <task id="LOCAL-00001" summary="update structure">
-      <created>1639562617010</created>
+    <task id="LOCAL-00001" summary="updat directory structure">
+      <created>1639563065948</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1639562617010</updated>
+      <updated>1639563065948</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -67,7 +60,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="update structure" />
+    <MESSAGE value="updat directory structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="updat directory structure" />
   </component>
 </project>
