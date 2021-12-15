@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f343f086-f182-465f-a05f-529bee608911" name="Changes" comment="add saving">
+    <list default="true" id="f343f086-f182-465f-a05f-529bee608911" name="Changes" comment="fix markdown cells becoming code cells (idk how)">
       <change beforePath="$PROJECT_DIR$/reconstruct_tcrs_example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/reconstruct_tcrs_example.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639562681161</updated>
-      <workItem from="1639562685011" duration="7001000" />
+      <workItem from="1639562685011" duration="7359000" />
     </task>
     <task id="LOCAL-00001" summary="updat directory structure">
       <created>1639563065948</created>
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639569540458</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix markdown cells becoming code cells (idk how)">
+      <created>1639569816243</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1639569816243</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +147,7 @@
     <MESSAGE value="update path" />
     <MESSAGE value="update path and description" />
     <MESSAGE value="add saving" />
-    <option name="LAST_COMMIT_MESSAGE" value="add saving" />
+    <MESSAGE value="fix markdown cells becoming code cells (idk how)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix markdown cells becoming code cells (idk how)" />
   </component>
 </project>
