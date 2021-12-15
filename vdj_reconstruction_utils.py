@@ -16,15 +16,16 @@ import numpy as np
 import logging
 from collections import Counter
 
-from NKI_TCR.data.utils.constants import START_CODON, TRANSLATION_TABLE, AMBIGUOUS_AA_CODE, VDJ_CDR3_ALL_END_MOTIFS, \
+from TCR_reconstruction.constants import START_CODON, TRANSLATION_TABLE, AMBIGUOUS_AA_CODE, VDJ_CDR3_ALL_END_MOTIFS, \
     TRAJ_IMPUTATION_DICT, VDJ_NAME, TRAV, TRAJ, TRBV, TRBD, TRBJ
 
-from NKI_TCR.logger.logger import init_logger
+from TCR_reconstruction.logger.logger import init_logger
 
 logger = logging.getLogger(__name__)
 
 
-def reconstruct_full_tcr(v_column_nt, v_column_aa, j_column_nt, j_column_aa, cdr3_column_aa, include_leader=False):
+def reconstruct_full_tcr(v_column_nt, v_column_aa, j_column_nt, j_column_aa, cdr3_column_aa, include_leader=False,
+                         exlude_C_F_W=False):
     # TODO: C and F/W checks do currently not allow to reconstruct the full seq
     # TODO: add allele inference of J (nt level) segment from CDR3 region (?)
     """
@@ -71,18 +72,25 @@ def reconstruct_full_tcr(v_column_nt, v_column_aa, j_column_nt, j_column_aa, cdr
                     assert cdr3[0] == 'C'
                 except AssertionError:
                     # print('BE AWARE: the cdr3: {0} at index {1} did not start with a \'C\''.format(cdr3, i))
-                    logger.debug('BE AWARE: the cdr3: {0} at index {1} did not start with a \'C\'. The full sequence will not be reconstructed!'.format(cdr3, i))
+                    logger.debug(
+                        'BE AWARE: the cdr3: {0} at index {1} did not start with a \'C\'. The full sequence will not be reconstructed!'.format(
+                            cdr3, i))
                     missing_c_fw_counter.update(['no_C_at_start'])
-                    full_sequence_column.append(np.nan)
-                    continue
+                    if exlude_C_F_W:
+                        full_sequence_column.append(np.nan)
+                        continue
 
                 try:
                     assert cdr3[-1] == 'F' or cdr3[-1] == 'W'
                 except AssertionError:
                     # print('BE AWARE: the cdr3: {0} at index {1} did not end with a \'F\' or \'W\''.format(cdr3, i))
                     logger.debug(
-                        'BE AWARE: the cdr3: {0} at index {1} did not end with a \'F\' or \'W\'. this is a warning, but the sequence will be reconstructed.'.format(cdr3, i))
+                        'BE AWARE: the cdr3: {0} at index {1} did not end with a \'F\' or \'W\'. this is a warning, but the sequence will be reconstructed.'.format(
+                            cdr3, i))
                     missing_c_fw_counter.update(['did_not_end_with_F_or_W'])
+                    if exlude_C_F_W:
+                        full_sequence_column.append(np.nan)
+                        continue
 
                 # add trbv and cdr3 together
                 trxv_plus_cdr3 = trxv_aa + cdr3
@@ -177,7 +185,7 @@ def find_c104(v_seq, nt_or_aa):
 
     elif nt_or_aa == 'aa':
         # find the first C going from the last codon to the left
-        for index_c104 in range(len(v_seq)-1, -1, -1):
+        for index_c104 in range(len(v_seq) - 1, -1, -1):
             if v_seq[index_c104] == 'C':
                 # return the sequence without the C, as this is the starting AA from the CDR3
                 return v_seq[:index_c104]
@@ -554,7 +562,7 @@ def impute_traj_column(cdr3a_column, traj_column):
                 if motif in TRAJ_IMPUTATION_DICT['TRAJ24'].keys():
                     imputed_traj, imputed_traj_aa = TRAJ_IMPUTATION_DICT['TRAJ24'][motif]  # return the correct
                     logger.debug('IMPUTED TRAJ24 : {0} for index {1}'.format(imputed_traj, i))
-                    #print('IMPUTED {}'.format(imputed_traj))
+                    # print('IMPUTED {}'.format(imputed_traj))
                 else:
                     imputed_traj, imputed_traj_aa = np.nan, np.nan
             elif traj_variant == 'TRAJ37':
@@ -562,7 +570,7 @@ def impute_traj_column(cdr3a_column, traj_column):
                 if motif in TRAJ_IMPUTATION_DICT['TRAJ37'].keys():
                     imputed_traj, imputed_traj_aa = TRAJ_IMPUTATION_DICT['TRAJ37'][motif]  # return the correct
                     logger.debug('IMPUTED TRAJ37 : {0} for index {1}'.format(imputed_traj, i))
-                    #print('IMPUTED {}'.format(imputed_traj))
+                    # print('IMPUTED {}'.format(imputed_traj))
                 else:
                     imputed_traj, imputed_traj_aa = np.nan, np.nan
             else:
@@ -570,7 +578,9 @@ def impute_traj_column(cdr3a_column, traj_column):
 
         # occurs when an empty traj is encountered or the annotation is not 6 characters long.
         except (KeyError, TypeError) as error_msg:
-            logger.info('ERROR: {0}, {1} could not impute the traj {2}, for index {3}'.format(error_msg, cdr3a, traj_column[i], i))
+            logger.info(
+                'ERROR: {0}, {1} could not impute the traj {2}, for index {3}'.format(error_msg, cdr3a, traj_column[i],
+                                                                                      i))
             imputed_traj, imputed_traj_aa = np.nan, np.nan
 
         imputed_traj_list.append(imputed_traj)
