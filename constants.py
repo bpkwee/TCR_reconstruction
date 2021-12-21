@@ -1,5 +1,3 @@
-import numpy as np
-
 # Nomenclature and Symbolism for Amino Acids and Peptides. IUPAC-IUB Joint Commission on Biochemical Nomenclature. 1983.
 AA_DICT = ["A", "C", "D", "E",
            "F", "G", "H", "I",
@@ -32,6 +30,8 @@ TRANSLATION_TABLE = {
     'ATG': 'M',
     # Stop codons
     'TAG': '*', 'TAA': '*', 'TGA': '*'}
+
+# IMGT standardized V,D and J gene name annotations
 VDJ_NAME = ['TRAV', 'TRAJ', 'TRBV', 'TRBD', 'TRBJ']
 
 # cellranger
@@ -43,243 +43,6 @@ VDJ_CDR3_RARE_END_MOTIFS = ['XGXG', 'FXXG']
 VDJ_CDR3_ALL_END_MOTIFS = VDJ_CDR3_COMMON_END_MOTIFS + VDJ_CDR3_RARE_END_MOTIFS
 
 
-# Max possible CDR3 length (in nts)
-# See https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4998859/
-VDJ_MAX_CDR3_LEN = 80
-VDJ_MIN_CDR3_LEN = 26
-
-
-# TODO: ask mireille for the publication explaining why subtype is important
-# TODO: check all annotations and re-check all comments made on the entries of the HLA dict
-# TODO: make an option to save and load the dicts instead of defining here
-# translation (from either 'HLA-allele' or 'expert assigned type' to [expert assigned type, 4 digit, MHCI or MHCII])
-# via https://www.ebi.ac.uk/ipd/imgt/hla/dictionary.html
-HLA_DICT = {'HLA-A*02': ['A2', np.nan, 'MHCI'],  # A*02, HLA-A*02 or just A2
-            'HLA-A*01': ['A1', np.nan, 'MHCI'],
-            'HLA-DQw1': [np.nan, np.nan, 'MHCII'],
-            'HLA-B*14': ['B14', np.nan, 'MHCI'],  # B64, B65 or  B14
-            'nan': [np.nan, np.nan, np.nan],
-            'HLA-A2': ['A2', np.nan, 'MHCI'],
-            'HLA-Cw* 16:01': [np.nan, np.nan, 'MHCI'],  # not assigned/ undefined
-            'HLA-A*011': ['A11', np.nan, 'MHCI'],  # A*11? A*011 not in database
-            'DR3*02:02': ['DR52', 'DRB3*02:02', 'MHCII'],
-            # DR3*02:02. Deduced it must have been DRB3 and DR52, but not sure
-            'HLA-A*2:01': ['A2', 'A*02:01', 'MHCI'],
-            'HLA-B*8': ['B8', np.nan, 'MHCI'],  # B81 or B82 or B8
-            'HLA-A*02:01': ['A2', 'A*02:01', 'MHCI'],
-            'DRB1*04:01': ['DR4', 'DRB1*04:01', 'MHCII'],
-            'HLA-B*44:05': ['B44', 'B*44:05', 'MHCI'],
-            'HLA-B*57:01': ['B57', 'B*57:01', 'MHCI'],
-            'HLA-B*57:03': ['B57', 'B*57:03', 'MHCI'],
-            'HLA-B*07:02': ['B7', 'B*07:02', 'MHCI'],
-            'HLA-A*01:01': ['A1', 'A*01:01', 'MHCI'],
-            'HLA-A*4:04,*13:01': ['B13', np.nan, 'MHCI'],  # A4 does not exist
-            'HLA-A*2:01,*6:801': ['A2', np.nan, 'MHCI'],  # A2 or A6: are almost same
-            'Complete HLA typing is provided in the paper for each patient': [np.nan, np.nan, np.nan],
-            'HLA- DQ5': ['DQ5', np.nan, 'MHCII'],  # not in database
-            'HLA-B08': ['B8', np.nan, 'MHCI'],  # can only find with B*08
-            'non HLA-A*02, non HLA-B08': [np.nan, np.nan, np.nan],
-            'HLA-DPB1*02:01': [None, None, 'MHCII'],  # not in database
-            'HLA-B*35:02': ['B35', 'B*35:02', 'MHCI'],
-            'HLA-DRB1*04:01': ['DR4', 'DRB1*04:01', 'MHCII'],
-            'HLA-DQ2': ['DQ2', np.nan, 'MHCII'],
-            'H-2Kb': [None, np.nan, 'MHCII'],  # not in database
-            'HLA-A1': ['A1', np.nan, 'MHCI'],  # cannot find A1, A*1 gives A11, A*01 gives A1
-            'HLA-B7': ['B7', np.nan, 'MHCI'],  # cannot find B7, B*7 gives B73, only B*07 gives B7
-            'DRB1*15:03': ['DR15', 'DRB1*15:03', 'MHCII'],
-            'HLA-DQ8': ['DQ8', np.nan, 'MHCII'],
-            'DQ8-trans': [None, np.nan, 'MHCII'],  # not in database, Do I use DQ8 ?
-            'HLA-A*02:02': ['A2', 'A*02:02', 'MHCI'],
-            'HLA-A*02:03': ['A2', 'A*02:03', 'MHCI'],
-            'HLA-A*02:04': ['A2', 'A*02:04', 'MHCI'],
-            'HLA-A*02:05': ['A2', 'A*02:05', 'MHCI'],
-            'HLA-A*02:06': ['A2', 'A*02:06', 'MHCI'],
-            'HLA-A*02:07': ['A2', 'A*02:07', 'MHCI'],
-            'HLA-A*02:08': ['A2', 'A*02:08', 'MHCI'],
-            'HLA-A*02:09': ['A2', 'A*02:09', 'MHCI'],
-            'HLA-A*02:10': ['A2', 'A*02:10', 'MHCI'],
-            'HLA-A*02:11': ['A2', 'A*02:11', 'MHCI'],
-            'HLA-A*02:12': ['A2', 'A*02:12', 'MHCI'],
-            'HLA-A*02:13': ['A2', 'A*02:13', 'MHCI'],
-            'HLA-A*02:14': ['A2', 'A*02:14', 'MHCI'],
-            'HLA-A*02:15': ['A2', 'A*02:15', 'MHCI'],
-            'HLA-A*02:16': ['A2', 'A*02:16', 'MHCI'],
-            'HLA-A*02:17': ['A2', 'A*02:17', 'MHCI'],
-            'HLA-DR1': ['DR1', np.nan, 'MHCII'],
-            'HLA-DR11': ['DR11', np.nan, 'MHCII'],
-            'HLA-DR15': ['DR15', np.nan, 'MHCII'],
-            'HLA-DR5': [None, np.nan, 'MHCII'],  # not clear: expert -> DR11, DR8 DR12 !?
-            'HLA-DR4': ['DR4', np.nan, 'MHCII'],
-            'HLA-DQ2.5': [None, np.nan, 'MHCII'],  # DQ2?? not clear
-            'HLA-C*07:02': ['Cw7', 'C*07:02', 'MHCI'],
-            'HLA-DRB1': ['DR1', np.nan, 'MHCII'],
-            'DRB1*04-01': ['DR4', 'DRB1*04:01', 'MHCII'],
-            '\xa0HLA-DQB1*06:02': ['DQ6', 'DQB1*06:02', 'MHCII'],  # what is this
-            'HLA-A2:01': ['A2', 'A*02:01', 'MHCI'],
-            'HLA-B*08': ['B8', np.nan, 'MHCI'],
-            'HLA-A*03': ['A3', np.nan, 'MHCI'],
-            'HLA-B*27': ['B27', np.nan, 'MHCI'],
-            'HLA-B*57': ['B57', np.nan, 'MHCI'],
-            'HLA-B*44:03:08': ['B44', 'B*44:03', 'MHCI'],
-            'HLA-DRA*01': [None, np.nan, 'MHCII'],  # not in database
-            'HLA-A*03:01': ['A3', 'A*03:01', 'MHCI'],
-            'HLA-A*11:01': ['A11', 'A*11:01', 'MHCI'],
-            'HLA-A*24:02': ['A24', 'A*24:02', 'MHCI'],
-            'HLA-B*08:01': ['B8', 'B*08:01', 'MHCI'],
-            'HLA-B*35:01': ['B35', 'B*35:01', 'MHCI'],
-            'HLA-B*58': ['B58', np.nan, 'MHCI'],
-            'HLA-B*42': ['B42', np.nan, 'MHCI'],
-            'HLA-B*53': ['B53', np.nan, 'MHCI'],
-            'HLA-B*27:05': ['B27', 'B*27:05', 'MHCI'],
-            'HLA-B*35:08': ['B35', 'B*35:08', 'MHCI'],
-            'HLA-DRA*01:01': [None, None, 'MHCII'],  # not in database
-            'HLA-B*81:01': ['B81', 'B*81:01', 'MHCI'],
-            'HLA-B*42:01': ['B42', 'B*42:01', 'MHCI'],
-            'HLA-B*15': [None, np.nan, 'MHCI'],  # B62, 75, 72, 62, 70,71, 75, 77, 63 etc
-            'HLA-B*51:01': ['B51', 'B*51:01', 'MHCI'],
-            'HLA-B*07': ['B7', np.nan, 'MHCI'],
-            'HLA-DQA1*01:02': [None, None, 'MHCII'],  # not in database
-            'HLA-DPA1*02:01': [None, None, 'MHCII'],  # not in database
-            'HLA-A*02:01:59': ['A2', 'A*02:01', 'MHCI'],
-            'HLA-A*02:01:48': ['A2', 'A*02:01', 'MHCI'],
-            'HLA-DRA*01:02:03': [None, None, 'MHCII'],  # not in database
-            'HLA-B*08:01:29': ['B8', 'B*08:01', 'MHCI'],
-            'HLA-A*02:256': ['A2', 'A*02:256', 'MHCI'],
-            'HLA-B*35:08:01': ['B35', 'B*35:08', 'MHCI'],
-            'HLA-E*01:01:01:03': [None, None, 'MHCI'],  # not in database
-            'HLA-DRA*01:01:02': [None, None, 'MHCII'],  # not in database
-            'HLA-B*35:42:01': ['B35', 'B*35:42', 'MHCI'],
-            'HLA-B*57:06': ['B57', 'B*57:06', 'MHCI'],
-            'HLA-B*44:05:01': ['B44', 'B*44:05:01', 'MHCI'],
-            'HLA-A*02:01:98': ['A2', 'A*02:01', 'MHCI'],
-            'HLA-A*24:02:84': ['A24', 'A*24:02', 'MHCI'],
-            'HLA-B*27:05:31': ['B27', 'B*27:05', 'MHCI'],
-            'HLA-DQA1*03:01:01': [None, None, 'MHCII'],  # not in database
-            'HLA-B*51:193': ['B51', 'B*51:193', 'MHCI'],
-            'HLA-DQA1*05:01:01:02': [None, None, 'MHCII'],  # not in database
-            'HLA-A*02:01:110': ['A2', 'A*02:01', 'MHCI'],
-            'HLA-B*35': ['B35', np.nan, 'MHCI'],
-            'HLA-A*11': ['A11', np.nan, 'MHCI'],
-            'HLA-B*12': [None, np.nan, 'MHCI'],  # not found. Could it be B44, B45 or B47?
-            'HLA-A*68:01': ['A68', 'A*68:01', 'MHCI'],
-            'HLA-B*18': ['B18', np.nan, 'MHCI'],
-            'HLA class I': [np.nan, np.nan, 'MHCI'],
-            'HLA-B*37:01': ['B37', 'B*37:01', 'MHCI'],
-            'HLA-A*80:01': ['A80', 'A*80:01', 'MHCI'],
-            'HLA-B27': ['B27', np.nan, 'MHCI'],
-            'HLA-A11': ['A11', np.nan, 'MHCI'],
-            'HLA-B57': ['B57', np.nan, 'MHCI'],
-            'HLA-B*44:03': ['B44', 'B*44:03', 'MHCI'],
-            'HLA-B8': ['B8', np.nan, 'MHCI'],
-            'HLA-B*35:01, HLA-B*35:08': ['B35', np.nan, 'MHCI'],
-            'HLA-A*30:02': ['A30', 'A*30:02', 'MHCI'],
-            'HLA-B*38:01': ['B38', 'B*38:01', 'MHCI'],
-            'HLA-B*44:02': ['B44', 'B*44:02', 'MHCI'],
-            'HLA-B35': ['B35', np.nan, 'MHCI'],
-            'HLA-B18': ['B18', np.nan, 'MHCI'],
-            'HLA-B*15:01': ['B15', np.nan, 'MHCI'],
-            'HLA-B*57:01, HLA-B*57:03': ['B57', np.nan, 'MHCI'],
-            'HLA-C*14:02': [np.nan, np.nan, 'MHCI'],  # What is C14?
-            'HLA-A*29:02': ['A29', 'A*29:02', 'MHCI'],
-            'HLA-Cw3': [np.nan, np.nan, 'MHCI'],  # cannot find in the database, but does exist on wikipedia
-            'HLA-A*02:01 K66A, E63Q mutant': ['A2', 'A*02:01', 'MHCI'],
-            'HLA-B*18:01': ['B18', 'B18*:01', 'MHCI'],
-            'HLA-B*40:01': ['B40', np.nan, 'MHCI'],
-            'HLA-B*44:02, HLA-B*44:05': ['B44', np.nan, 'MHCI'],
-            'HLA-B*44:02, HLA-B*44:03, HLA-B*44:05': ['B44', np.nan, 'MHCI'],
-            'HLA-A*02:01, HLA-A*02:01 A150P mutant': ['A2', 'A*02:01', 'MHCI'],
-            'HLA-A*30:01': ['A30', 'A*30:01', 'MHCI'],
-            'HLA-A*02:01, HLA-A*02:01 K66A, E63Q mutant': ['A2', 'A*02:01', 'MHCI'],
-            'HLA-B*35:08 Q65A, T69A, Q155A mutant': ['B35', 'B*35:08', 'MHCI'],
-            'HLA-A*02:01 K66A mutant': ['A2', 'A*02:01', 'MHCI'],
-            'HLA-C*06:02': [np.nan, np.nan, 'MHCI'],  # have to look into what / how to annotate the HLAC
-            'HLA-C*07:01': [np.nan, np.nan, 'MHCI'],
-            'HLA-C*05:01': [np.nan, np.nan, 'MHCI'],
-            'HLA-B*35:08, HLA-B*35:08 Q65A, T69A, Q155A mutant': ['B35', 'B*35:08', 'MHCI'],
-            'HLA-B*35:08 Q155A mutant': ['B35', 'B*35:08', 'MHCI'],
-            'HLA-A*02:01, HLA-A*02:01 A69G mutant, HLA-A*02:01 E166A mutant, HLA-A*02:01 K66A mutant, HLA-A*02:01 R65A mutant, HLA-A*02:01 T163A mutant, HLA-A*02:01 W167A mutant': [
-                'A2', 'A*02:01', 'MHCI'],
-            'HLA-B*44:03, HLA-B*44:08': ['B44', 'B*44:08', 'MHCI'],
-            'HLA-C*08:02': [np.nan, np.nan, 'MHCI']}
-
-VDJDB_METHODS_DICT = {'tetramer-sort': 'multimer',
-                      'tetramer-sort,antigen-loaded-targed': 'multimer',
-                      'dextramer-sort': 'multimer',
-                      'antigen-loaded-targets,cultured-T-cells': 'functional',
-                      'dextramer-sort,cultured-T-cells': 'multimer',
-                      'pentamer-sort': 'multimer',
-                      'cultured-T-cells,beads,tetramer-sort': 'multimer',
-                      'pelimer-sort': 'multimer',
-                      'tetramer-magnetic-selection': 'multimer',
-                      'multimer-sort': 'multimer',
-                      'antigen-loaded-targets,dextramer-sort': 'multimer',
-                      'cultured-T-cells,tetramer-sort': 'multimer',
-                      'dextramer-sort,beads': 'multimer',
-                      'antigen-expressing-targets': 'functional',
-                      'MHC-peptide-beads,cultivated-t-cells': 'multimer',
-                      'streptamer-sort': 'multimer',
-                      'tetramer-sort,cultured-T-cells': 'multimer',
-                      'antigen-loaded-targets': 'functional',
-                      'cla': 'functional',
-                      'peptide-restimulation,tetramer-sort': 'multimer',
-                      'tetramer-sort,beads': 'multimer',
-                      'tetramer-sort,limiting-dilution-cloning': 'multimer',
-                      'limiting-dilution-cloning,tetramer-sort': 'multimer',
-                      'antigen-loaded-targets, pentamer-sort': 'functional',
-                      'cd8null-tetramer-sort': 'multimer',
-                      'cultured-T-cells': 'functional',
-                      'antigen-loaded-targets, IFNg capture assay': 'functional',
-                      'antigen loaded targets, IFNg capture assay': 'functional',
-                      'antigen-loaded-targets, tetramer-sort': 'multimer',
-                      'nan': np.nan,
-                      'cultured-T-cells,antigen-expressing-targets': 'functional',
-                      'limiting-diffusion-cloning,antigen-expressing-targets': 'functional',
-                      'antigen-loaded-target, CTL culture': 'functional',
-                      'Tetramer-sort': 'multimer',
-                      'limiting-dilution-cloning': np.nan,
-                      'tetramer-sort,antigen-expressing cells,cultured-T-cells': 'multimer',
-                      'antigen-loaded-target,limiting-dilution-cloning': 'functional',
-                      'beads,tetramer-sort': 'multimer',
-                      'limited-dilution-cloning,antigen-expressing-targets': 'functional',
-                      'antigen-loaded-targets,pentamer-sort': 'multimer',
-                      'CTL clone': np.nan,
-                      'antigen-loaded-targets,cloning-by-limiting-dilution': 'functional'
-                      }
-
-VDJDB_SINGLE_CELL_DICT = {'nan': np.nan,
-                          'yes': 'Yes',
-                          'tetramer-sort': 'No'}
-
-MCPAS_ASSAY_DICT = {'1.0': 'multimer',
-                    '2.0': 'functional',
-                    '2.1': 'functional',
-                    '2.2': 'functional',
-                    '2.3': 'functional',
-                    '2.4': 'functional',
-                    '2.5': 'functional',
-                    '3.0': 'remove',
-                    '4.0': 'ngs',
-                    'nan': np.nan}
-
-EPITOPE_MHC_DICT_10x = {'nan': np.nan,
-                        'VTEHDTLLY': 'HLA-A*01:01',
-                        "CYTWNQMNL": 'HLA-A*24:02',
-                        "AYAQKIFKI": "HLA-A*24:02",
-                        "QYDPVAALF": "HLA-A*24:02",
-                        "KLGGALQAK": "HLA-A*03:01",
-                        "RLRAEAQVK": "HLA-A*03:01",
-                        "RIAAWMATY": "HLA-A*03:01",
-                        "IVTDFSVIK": "HLA-A*11:01",
-                        "AVFDRKSDAK": "HLA-A*11:01",
-                        "IPSINVHHY": "HLA-B*35:01",
-                        "QPRAPIRPI": "HLA-B*07:02",
-                        "TPRVTGGGAM": "HLA-B*07:02",
-                        "RPPIFIRRL": "HLA-B*07:02",
-                        "RPHERNGFTVL": "HLA-B*07:02",
-                        "RAKFKQLL": "HLA-B*08:01",
-                        "ELRRKMMYM": "HLA-B*08:01",
-                        "FLRGRAYGL": "HLA-B*08:01"}
-
 # The TRAJ allele can be imputed from the CDR3A region in 2 cases
 TRAJ_IMPUTATION_DICT = {'TRAJ37': {'GNTGKLIF': ['TRAJ37*01', 'GSGNTGKLIFGQGTTLQVKP'],  # GSGNTGKLI is allele *01
                                    'SNTGKLIF': ['TRAJ37*02', 'GSSNTGKLIFGQGTTLQVKP'],  # XXSXXXXXX is allele *02
@@ -289,7 +52,7 @@ TRAJ_IMPUTATION_DICT = {'TRAJ37': {'GNTGKLIF': ['TRAJ37*01', 'GSGNTGKLIFGQGTTLQV
                                    'FQF': ['TRAJ24*03', 'TTDSWGKFQFGAGTQVVVTP'],  # XXXXXXXFQ is allele *03
                                    }}
 
-# these are most options of VDJ allele notations that are found in the database created by parser.py
+# Most options of VDJ allele notations that are found in the database created by parser.py
 # TODO: MAKE IT ABLE TO ADD NEW ONES: using self.TRAV etc
 TRAV = ['nan', 'TRAV38-2DV8', 'TRAV29DV5', 'TRAV13-1', 'TRAV1-1', 'TRAV5', 'TRAV14DV4', 'TRAV1-2', 'TRAV8-2', 'TRAV24',
         'TRAV41', 'TRAV19', 'TRAV8-1', 'TRAV27', 'TRAV17', 'TRAV35', 'TRAV22', 'TRAV12-3', 'TRAV13-2', 'TRAV8-3',
